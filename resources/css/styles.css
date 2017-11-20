@@ -44,3 +44,18 @@ header #main-nav a{
     opacity: 0.9;
     text-decoration: underline;
 }
+
+#mission{
+    width: 1200px;
+    height: 700px;
+    background-image: url("../images/mission-background.jpg");
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+#mission div{
+    background-color: black;
+    width: 1200px;
+}
+
