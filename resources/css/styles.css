@@ -9,7 +9,7 @@ body{
 
 .container{
     padding-top: 70px;
-    margin: 0 auto;
+    margin: 20px auto;
 }
 
 header{
@@ -65,12 +65,12 @@ header #main-nav a{
 
 #featured-tea .row{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: 0 auto;
 }
 
 #featured-tea .menu-item{
-
+    margin: 0 20px;
 }
 
 #featured-tea .menu-item img{
