@@ -65,7 +65,7 @@ header #main-nav a{
 
 #featured-tea .row{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin: 0 auto;
 }
 
@@ -78,3 +78,40 @@ header #main-nav a{
     height: 200px;
 }
 
+#featured-tea .menu-item h4{
+    margin-top: 10px;
+}
+
+#locations{
+    width: 1200px;
+    height: 500px;
+    background-image: url("../images/background.jpg");
+}
+
+#places{
+    display: flex;
+    justify-content: center;
+}
+
+#locations h2{
+    margin-bottom: 0px;
+}
+
+#places .location{
+    background-color: black;
+    width: 300px;
+    margin: 15px 20px;
+}
+
+#places .location p{
+    padding: 10px 0;
+}
+
+#contact{
+    height: 200px;
+}
+
+footer p{
+    text-align: left;
+    margin-left: 20px;
+}
